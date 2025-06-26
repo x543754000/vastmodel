@@ -1,4 +1,4 @@
-<center><h1>海量模型s 🚀</h1></center>
+<center><h1>海量模型 🚀</h1></center>
 
 <div style="text-align: center;">
   <a href="https://github.com/TWO-ICE/Awesome-NAS-Docker/stargazers">
@@ -467,20 +467,12 @@
 
 ## 🤝 如何贡献
 
-1. Fork 本仓库
-2. 按格式添加新项目到 `projects.yaml`
-3. 提交 Pull Request
-4. 通过审核后合并到主分支
+1. 大半生都在研究技术
+2. 发现这些技术啥都好，就是不能赚钱
+3. 拼命寻找赚钱捷径
+4. 股票才是最适合我的方式
+5. 发现一个很有用的主页 [点我查看](https://www.hupanclub.com/)  https://www.hupanclub.com/
 
-**格式要求**：
-```yaml
-- category: "01、AI应用生态"
-- subcategory: "AI工具"
-- name: "LanguageTool"
-- description: "多语言语法校验工具"
-- repo: "https://github.com/languagetool-org/languagetool"
-- tutorial: "https://zhuanlan.zhihu.com/p/28636492929"
-```
 
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，欢迎自由使用和二次开发。
