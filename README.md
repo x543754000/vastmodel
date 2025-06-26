@@ -465,7 +465,7 @@
 | Bark     | 基于APNs将消息直达iPhone锁屏 | [点我查看](https://github.com/Finb/Bark)          | [查看教程](https://zhuanlan.zhihu.com/p/1890870563641217497) | ![Star](https://img.shields.io/github/stars/Finb/Bark?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/Finb/Bark?label) |
 | Gotify   | 快速搭建本地实时消息推送平台 | [点我查看](https://github.com/gotify/server)      | [查看教程](https://zhuanlan.zhihu.com/p/1890564606608520626) | ![Star](https://img.shields.io/github/stars/gotify/server?&label=) | ![Last Commit](https://img.shields.io/github/last-commit/gotify/server?label) |
 
-## 🤝 如何贡献
+## 🤝 如何赚钱养家
 
 1. 大半生都在研究技术
 2. 发现这些技术啥都好，就是不能赚钱
